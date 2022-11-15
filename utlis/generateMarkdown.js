@@ -14,7 +14,9 @@ function renderLicenseSection(license) {}
 function generateMarkdown(data) {
   return `# ${data.title}
 
+  ![GitHub](https://img.shields.io/github/license/aldoibuado/README-Maker)
 `;
 }
+
 
 module.exports = generateMarkdown;

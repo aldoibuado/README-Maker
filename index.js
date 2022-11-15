@@ -33,20 +33,33 @@ const questions = [
     type: 'input',
     message: 'What were the steps taken to run tests?',
     name: 'tests',
+}, {
+    type: 'input',
+    message: 'Questions?',
+    name: 'questions',
+}, {
+    type: 'input',
+    name: 'github',
+    message: 'Enter your Github username',
+}, {
+    type: 'input',
+    name: 'email',
+    message: 'Enter you email address',
 },
 ]
 // TODO: Create a function to write README file
-function writeToFile(fileName, data) {}
-
+function writeToFile(fileName, data) {
+}
 // TODO: Create a function to initialize app
 function init() {
     inquirer.prompt(questions).then(responses =>{
        const markdown = generateMarkdown(responses)
-       fs.writeFile('./Output/readme.md', markdown, (err)=>{
+
+    fs.writeFile('./Output/readme.md', markdown, (err)=>{
         console.log(err)
         console.log('Readme has been generated')
-       })
-    })
+    });
+});
 }
 
 // Function call to initialize app
