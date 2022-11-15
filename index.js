@@ -24,7 +24,7 @@ const questions = [
     type: 'list',
     message: 'What license does your project use?',
     name: 'license',
-    choices: ['MIT', 'Apache', 'Openesd', 'Artistic'],
+    choices: ['MIT', 'Apache', 'Artistic'],
 }, {
     type: 'input',
     message: 'What are the contribution guidelines?',
