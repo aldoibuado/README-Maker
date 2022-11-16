@@ -25,6 +25,7 @@
 
   ## Usage
   You will input Node index.js and then the user will be prompted to answer the following questions.
+  ![README Maker gif](https://user-images.githubusercontent.com/109316738/202059064-027e9681-9aee-4a3a-b867-371ab3b3f874.gif)
 
   ## License
   ![badge](https://img.shields.io/badge/license-MIT-brightgreen) <br/>
