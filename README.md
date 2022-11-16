@@ -43,4 +43,4 @@
   ## Questions
   Where do you go to download Node.js?
   <br/>
-  If you have any questions, you can reach me at (https://github.com/aldoibuado) and or at email adresss aldo.ibuado@gmail.com <br/>
+  If you have any questions, you can reach me at (https://github.com/aldoibuado) and or at email address aldo.ibuado@gmail.com <br/>
