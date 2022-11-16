@@ -25,7 +25,6 @@
 
   ## Usage
   You will input Node index.js and then the user will be prompted to answer the following questions.
-  
 
   ## License
   ![badge](https://img.shields.io/badge/license-MIT-brightgreen) <br/>
