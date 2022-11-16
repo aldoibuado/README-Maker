@@ -26,7 +26,9 @@
   ## Usage
   You will input Node index.js and then the user will be prompted to answer the following questions.
 
-  Here is a link https://drive.google.com/file/d/1MQ7N5VXKswW0rhnQyWJUUc-G_2W2HPpJ/view to the video of how the application functions. 
+   ![README Maker gif](https://user-images.githubusercontent.com/109316738/202063518-a3c818db-6b28-4ece-b232-ef43b59427c7.gif)
+
+    Here is a link https://drive.google.com/file/d/1MQ7N5VXKswW0rhnQyWJUUc-G_2W2HPpJ/view to the video of how the application functions. 
 
   ## License
   ![badge](https://img.shields.io/badge/license-MIT-brightgreen) <br/>
