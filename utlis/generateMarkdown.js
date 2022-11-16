@@ -57,7 +57,9 @@ function generateMarkdown(data) {
   ${data.tests}
 
   ## Questions
-  If you have any questions, you can reach me at (https://github.com/aldoibuado) and or at email adresss aldo.ibuado@gmail.com <br/>
+  ${data.questions}
+  <br/>
+  If you have any questions, you can reach me at (https://github.com/${data.github}) and or at email adresss ${data.email} <br/>
 `;
 }
 
